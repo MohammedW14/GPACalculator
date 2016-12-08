@@ -53,6 +53,153 @@ class WeightedView: UIViewController
         super.viewDidLoad()
         
     }
+    
+    @IBAction func reg1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.green
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func hon1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.green
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func ap1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.green
+    }
+    @IBAction func reg2(sender:UIButton)
+    {
+        reg2.backgroundColor = UIColor.green
+        hon2.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func hon1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.green
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func ap1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.green
+    }
+    @IBAction func reg1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.green
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func hon1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.green
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func ap1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.green
+    }
+    @IBAction func reg1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.green
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func hon1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.green
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func ap1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.green
+    }
+    @IBAction func reg1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.green
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func hon1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.green
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func ap1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.green
+    }
+    @IBAction func reg1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.green
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func hon1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.green
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func ap1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.green
+    }
+    @IBAction func reg1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.green
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func hon1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.green
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func ap1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.green
+    }
+    @IBAction func reg1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.green
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func hon1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.green
+        ap1.backgroundColor = UIColor.red
+    }
+    @IBAction func ap1(sender:UIButton)
+    {
+        reg1.backgroundColor = UIColor.red
+        hon1.backgroundColor = UIColor.red
+        ap1.backgroundColor = UIColor.green
+    }
+
+    
 
     @IBAction func save(sender: UIButton)
     {
