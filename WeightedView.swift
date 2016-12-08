@@ -76,127 +76,127 @@ class WeightedView: UIViewController
     {
         reg2.backgroundColor = UIColor.green
         hon2.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.red
+        ap2.backgroundColor = UIColor.red
     }
-    @IBAction func hon1(sender:UIButton)
+    @IBAction func hon2(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.green
-        ap1.backgroundColor = UIColor.red
+        reg2.backgroundColor = UIColor.red
+        hon2.backgroundColor = UIColor.green
+        ap2.backgroundColor = UIColor.red
     }
-    @IBAction func ap1(sender:UIButton)
+    @IBAction func ap2(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.green
+        reg2.backgroundColor = UIColor.red
+        hon2.backgroundColor = UIColor.red
+        ap2.backgroundColor = UIColor.green
     }
-    @IBAction func reg1(sender:UIButton)
+    @IBAction func reg3(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.green
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.red
+        reg3.backgroundColor = UIColor.green
+        hon3.backgroundColor = UIColor.red
+        ap3.backgroundColor = UIColor.red
     }
-    @IBAction func hon1(sender:UIButton)
+    @IBAction func hon3(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.green
-        ap1.backgroundColor = UIColor.red
+        reg3.backgroundColor = UIColor.red
+        hon3.backgroundColor = UIColor.green
+        ap3.backgroundColor = UIColor.red
     }
-    @IBAction func ap1(sender:UIButton)
+    @IBAction func ap3(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.green
+        reg3.backgroundColor = UIColor.red
+        hon3.backgroundColor = UIColor.red
+        ap3.backgroundColor = UIColor.green
     }
-    @IBAction func reg1(sender:UIButton)
+    @IBAction func reg4(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.green
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.red
+        reg4.backgroundColor = UIColor.green
+        hon4.backgroundColor = UIColor.red
+        ap4.backgroundColor = UIColor.red
     }
-    @IBAction func hon1(sender:UIButton)
+    @IBAction func hon4(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.green
-        ap1.backgroundColor = UIColor.red
+        reg4.backgroundColor = UIColor.red
+        hon4.backgroundColor = UIColor.green
+        ap4.backgroundColor = UIColor.red
     }
-    @IBAction func ap1(sender:UIButton)
+    @IBAction func ap4(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.green
+        reg4.backgroundColor = UIColor.red
+        hon4.backgroundColor = UIColor.red
+        ap4.backgroundColor = UIColor.green
     }
-    @IBAction func reg1(sender:UIButton)
+    @IBAction func reg5(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.green
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.red
+        reg5.backgroundColor = UIColor.green
+        hon5.backgroundColor = UIColor.red
+        ap5.backgroundColor = UIColor.red
     }
-    @IBAction func hon1(sender:UIButton)
+    @IBAction func hon5(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.green
-        ap1.backgroundColor = UIColor.red
+        reg5.backgroundColor = UIColor.red
+        hon5.backgroundColor = UIColor.green
+        ap5.backgroundColor = UIColor.red
     }
-    @IBAction func ap1(sender:UIButton)
+    @IBAction func ap5(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.green
+        reg5.backgroundColor = UIColor.red
+        hon5.backgroundColor = UIColor.red
+        ap5.backgroundColor = UIColor.green
     }
-    @IBAction func reg1(sender:UIButton)
+    @IBAction func reg6(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.green
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.red
+        reg6.backgroundColor = UIColor.green
+        hon6.backgroundColor = UIColor.red
+        ap6.backgroundColor = UIColor.red
     }
-    @IBAction func hon1(sender:UIButton)
+    @IBAction func hon6(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.green
-        ap1.backgroundColor = UIColor.red
+        reg6.backgroundColor = UIColor.red
+        hon6.backgroundColor = UIColor.green
+        ap6.backgroundColor = UIColor.red
     }
-    @IBAction func ap1(sender:UIButton)
+    @IBAction func ap6(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.green
+        reg6.backgroundColor = UIColor.red
+        hon6.backgroundColor = UIColor.red
+        ap6.backgroundColor = UIColor.green
     }
-    @IBAction func reg1(sender:UIButton)
+    @IBAction func reg7(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.green
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.red
+        reg7.backgroundColor = UIColor.green
+        hon7.backgroundColor = UIColor.red
+        ap7.backgroundColor = UIColor.red
     }
-    @IBAction func hon1(sender:UIButton)
+    @IBAction func hon7(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.green
-        ap1.backgroundColor = UIColor.red
+        reg7.backgroundColor = UIColor.red
+        hon7.backgroundColor = UIColor.green
+        ap7.backgroundColor = UIColor.red
     }
-    @IBAction func ap1(sender:UIButton)
+    @IBAction func ap7(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.green
+        reg7.backgroundColor = UIColor.red
+        hon7.backgroundColor = UIColor.red
+        ap7.backgroundColor = UIColor.green
     }
-    @IBAction func reg1(sender:UIButton)
+    @IBAction func reg8(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.green
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.red
+        reg8.backgroundColor = UIColor.green
+        hon8.backgroundColor = UIColor.red
+        ap8.backgroundColor = UIColor.red
     }
-    @IBAction func hon1(sender:UIButton)
+    @IBAction func hon8(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.green
-        ap1.backgroundColor = UIColor.red
+        reg8.backgroundColor = UIColor.red
+        hon8.backgroundColor = UIColor.green
+        ap8.backgroundColor = UIColor.red
     }
-    @IBAction func ap1(sender:UIButton)
+    @IBAction func ap8(sender:UIButton)
     {
-        reg1.backgroundColor = UIColor.red
-        hon1.backgroundColor = UIColor.red
-        ap1.backgroundColor = UIColor.green
+        reg8.backgroundColor = UIColor.red
+        hon8.backgroundColor = UIColor.red
+        ap8.backgroundColor = UIColor.green
     }
 
     
